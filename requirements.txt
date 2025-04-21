@@ -1,4 +1,4 @@
 napalm
-pyfg @ git+https://github.com/n3s0/pyfg
+pyfg @ git+https://github.com/Evan-TwinHats/pyfg
 future
 ncclient
